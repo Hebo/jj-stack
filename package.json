@@ -1,11 +1,11 @@
 {
-  "name": "jj-stack",
+  "name": "jj-stack-hebotime",
   "type": "module",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A CLI tool for creating and managing stacked pull requests on GitHub when using Jujutsu locally.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/keanemind/jj-stack.git"
+    "url": "https://github.com/Hebo/jj-stack.git"
   },
   "bin": {
     "jj-stack": "dist/cli/index.js",

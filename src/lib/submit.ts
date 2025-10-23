@@ -314,7 +314,7 @@ export async function updatePRBase(
 const commentDataPrefix = "<!--- JJ-STACK_INFO: ";
 const commentDataPostfix = " --->";
 const stackCommentFooter =
-  "*Created with [jj-stack](https://github.com/keanemind/jj-stack)*";
+  "*<end of stack>*";
 const stackCommentThisPRText = "← this PR";
 
 /**
